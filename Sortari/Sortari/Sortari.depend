@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569941410 source:c:\users\fmisecretariat6\desktop\sda\sortari\sortari\main.cpp
+	<iostream>
+	<stdio.h>
+	<assert.h>
+

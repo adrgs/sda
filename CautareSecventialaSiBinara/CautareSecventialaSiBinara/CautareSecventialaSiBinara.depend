@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569942429 source:c:\users\fmisecretariat6\desktop\sda\cautaresecventialasibinara\cautaresecventialasibinara\main.cpp
+	<fstream>
+	<assert.h>
+
