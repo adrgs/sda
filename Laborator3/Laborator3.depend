@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1572359575 source:c:\users\fmisecretariat6\desktop\sda\laborator3\main.cpp
+	<iostream>
+	"Stiva.h"
+	"src/Stiva.cpp"
+
+1572358581 c:\users\fmisecretariat6\desktop\sda\laborator3\include\stiva.h
+
+1572359946 source:c:\users\fmisecretariat6\desktop\sda\laborator3\src\stiva.cpp
+	"Stiva.h"
+	<iostream>
+
+1572359400 c:\users\fmisecretariat6\desktop\sda\laborator3\src\stiva.cpp
+	"Stiva.h"
+	<iostream>
+
+1572360533 source:c:\users\fmisecretariat6\desktop\sda\laborator3\src\coada.cpp
+	"Coada.h"
+	<iostream>
+
+1572359905 c:\users\fmisecretariat6\desktop\sda\laborator3\include\coada.h
+

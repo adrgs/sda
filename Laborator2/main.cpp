@@ -581,6 +581,7 @@ public:
                 return;
             cout << "Coeficient\n";
             cin >> c;
+            if (c==0) continue;
 
             bool gasit = false;
             nod *p = prim;
@@ -698,9 +699,9 @@ int main()
 {
     //menu();
     //lista_ordonata();
-    //problema3();
-    //problema4();
-    //problema5();
+    problema3();
+    problema4();
+    problema5();
     problema6();
     return 0;
 }
