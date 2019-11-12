@@ -16,6 +16,7 @@ public:
     void push(T);
     T pop();
     T peek();
+    T back();
     bool empty();
     int search(T);
     void afiseaza();

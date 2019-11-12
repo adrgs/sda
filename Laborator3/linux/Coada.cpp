@@ -62,6 +62,13 @@ T Coada<T>::peek()
 }
 
 template <typename T>
+T Coada<T>::back()
+{
+    if (inceput_coada == sfarsit_coada) throw "Eroare peek: Coada este goala";
+    return elemente[sfarsit_coada-1];
+}
+
+template <typename T>
 bool Coada<T>::empty()
 {
     return (sfarsit_coada==inceput_coada);   
